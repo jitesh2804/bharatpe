@@ -8,7 +8,7 @@ db_params = {
     "dbname": "verve",
     "user": "postgres",
     "password": "Avis!123",
-    "host": "192.168.160.229",
+    "host": "192.168.160.2293",
     "port": "5433"  # Your PostgreSQL is running on port 5433
 }
 
